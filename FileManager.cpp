@@ -80,7 +80,7 @@ void FileManager::load(University& uni,
 
         } else if (tag == "STUDENT" && currentDorm) {
             string id, name, year;
-            getline(ss, id,   ':');
+            getline(ss, id, ':');
             getline(ss, name, ':');
             getline(ss, year);
 
