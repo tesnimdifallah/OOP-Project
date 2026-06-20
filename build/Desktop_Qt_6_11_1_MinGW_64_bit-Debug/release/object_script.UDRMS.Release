@@ -1,0 +1,11 @@
+release/Person.o
+release/main.o
+release/Student.o
+release/Room.o
+release/Restaurant.o
+release/Dormitory.o
+release/University.o
+release/FileManager.o
+release/OOPproject.o
+release/qrc_icons.o
+release/moc_OOPproject.o

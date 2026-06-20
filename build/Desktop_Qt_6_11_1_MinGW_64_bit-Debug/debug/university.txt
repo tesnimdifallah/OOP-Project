@@ -1,0 +1,7 @@
+DORM:dorm:res
+MENU:breakfast:milk,bread
+MENU:lunch:pasta,fish
+MENU:dinner:rice
+ROOM:1:2
+ROOM:2:2
+ROOM:2:2

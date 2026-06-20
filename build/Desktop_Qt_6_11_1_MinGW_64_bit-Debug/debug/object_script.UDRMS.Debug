@@ -1,0 +1,11 @@
+debug/Person.o
+debug/main.o
+debug/Student.o
+debug/Room.o
+debug/Restaurant.o
+debug/Dormitory.o
+debug/University.o
+debug/FileManager.o
+debug/OOPproject.o
+debug/qrc_icons.o
+debug/moc_OOPproject.o
