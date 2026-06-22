@@ -9,10 +9,8 @@ class FileManager {
 public:
 // saves all university data to a file
     // format: DORM/MENU/ROOM/STUDENT lines
-    static void save(const University& uni,
-                     const string& filepath);
+    static void save(const University& uni, const string& filepath);
  // loads university data from a file
     // creates dormitories, rooms and students from saved data
-    static void load(University& uni,
-                     const string& filepath);
+    static void load(University& uni, const string& filepath);
 };
